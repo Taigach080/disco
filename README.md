@@ -1,2 +1,2 @@
 # disco
-este es mi primer repositorio de github  holla
+mi primer repositorio de github.
